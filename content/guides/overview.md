@@ -63,7 +63,7 @@ testers or developers.
 
 It is usually counterproductive to let product owners and business analysts write Gherkin.
 Instead, we recommend they participate in [Example Mapping](/bdd/example-mapping) sessions
-and **approve** the Gherkin documents after a developer or tester has translated it to Gherkin.
+and **approve** the Gherkin documents after a developer or tester has specified them.
 {{% /note %}}
 
 # Step Definitions
