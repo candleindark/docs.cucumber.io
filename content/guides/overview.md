@@ -32,7 +32,7 @@ that the software conforms with the specification and generates a report indicat
 ✅ success or ❌ failure for each scenario.
 
 In order for Cucumber
-to understand the scenarios, they must follow some basic syntax rules, called [Gherkin](/gherkin/).
+to understand the scenarios, the specifications of the scenarios must follow some basic syntax rules, called [Gherkin](/gherkin/).
 
 # What is Gherkin?
 
