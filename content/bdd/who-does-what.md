@@ -41,7 +41,7 @@ Scenarios accurately describe what is wanted in a testable manner.
 
 # Writing Features
 
-Cucumber tests are written in terms of “Features”. Each feature consists of one or more “Scenarios”.
+Cucumber tests are specified in “Features”. Each feature consists of one or more “Scenarios”.
 
 Let’s start with an example Feature file:
 
@@ -120,7 +120,7 @@ Becomes:
 	And I fill in the "Address" field
 ```
 
-Cucumber features are best served by consistency. Don't say the same thing in
+Cucumber features are best specified with consistency. Don't say the same thing in
 different ways — say it the same way every time.
 
 For example:
