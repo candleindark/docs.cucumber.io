@@ -85,5 +85,5 @@ When("{maker} starts a game", function(maker) {
 ```
 
 {{% note "Who should write step definitions?" %}}
-The same people who write Gherkin should be writing step definitions. This is another reason the Gherkin is best written by developers and/or testers.
+The same people who write the feature files should be writing step definitions. This is another reason the feature files are best written by developers and/or testers.
 {{% /note %}}
